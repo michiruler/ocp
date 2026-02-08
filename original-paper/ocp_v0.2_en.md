@@ -3,8 +3,8 @@
 
 ### A Semantic Infrastructure for Conversation between Humans, AI, and Systems
 
-Author: [Your Name]  
-Date: [YYYY-MM-DD]
+Author: [Michiru Aoki]  
+Date: [2026-02-08]
 
 ---
 
