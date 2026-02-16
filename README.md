@@ -6,7 +6,7 @@ This repository preserves the original conceptual paper for **Open Communication
 OCP proposes a missing semantic layer in digital communication:
 a shared way to determine **what an interaction counts as having happened**.
 
-##  Staatus
+##  Status
 
 Conceptual proposal (sealed v0.2)
 
